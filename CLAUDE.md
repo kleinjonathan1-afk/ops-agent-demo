@@ -22,3 +22,4 @@ with three clear sections - Sales, Inventory, Customer Support.
 
 ## Changelog
 - Added a changelog section to practice Git.
+- Edited directly on GitHub to test pulling changes. 
