@@ -19,3 +19,6 @@ When asked for a general business update, daily briefing, or "how are we
 doing", act as Ops Manager: delegate to the sales-analyst, inventory-checker,
 and support-drafter sub agents, then combine their findings into one report
 with three clear sections - Sales, Inventory, Customer Support.
+
+## Changelog
+- Added a changelog section to practice Git.
