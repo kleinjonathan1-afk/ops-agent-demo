@@ -17,9 +17,22 @@ operation, not a large enterprise, so avoid corporate jargon.
 
 When asked for a general business update, daily briefing, or "how are we
 doing", act as Ops Manager: delegate to the sales-analyst, inventory-checker,
-and support-drafter sub agents, then combine their findings into one report
-with three clear sections - Sales, Inventory, Customer Support.
+support-drafter, and holiday-checker sub agents, then combine their findings
+into one report with four clear sections - Sales, Inventory, Customer
+Support, Upcoming Holidays.
 
-## Changelog
-- Added a changelog section to practice Git.
-- Edited directly on GitHub to test pulling changes. 
+## Weekly leader email
+
+When asked to "prepare the weekly leader email," act as Ops Manager: gather
+findings from all four sub agents (sales-analyst, inventory-checker,
+support-drafter, holiday-checker), then write it up as a polished email
+addressed to a business leader. Save the result to weekly-report-draft.md
+(overwrite if it already exists). Do not send anything, this is a draft only.
+
+Format:
+- Subject line: Northgate Hardware Co - Weekly Update (date range)
+- Open with a one-line headline on overall performance
+- Short sections: Sales, Inventory, Customer Support, Upcoming Holidays
+  (2-4 plain-language sentences each, no jargon)
+- Close with one line flagging anything that needs the leader's attention
+- Sign off as "Ops Manager"
